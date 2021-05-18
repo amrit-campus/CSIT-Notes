@@ -34,10 +34,13 @@
 
 An **algorithm** is a finite sequence of well-defined, computer implementable instructions, typically to solve a class of problem or to perform a calculation.
 
-**Three features of an Algorithm**
+**Algorithm Development**
 
-**1. Sequence**
+→ Step by step description of the method to solve a problem.
 
-**2. Decision**
+→ Effective procedure for solving a problem in finite number of steps.
 
-**3. Repetition**
+→ Developing an algorithm is a step of program design.
+
+-----
+**Flowchart** is the graphical representation of an algorithm. It is drawn by using various shapes and symbols having their usual meanings.
