@@ -45,4 +45,6 @@ An **algorithm** is a finite sequence of well-defined, computer implementable in
 -----
 **Flowchart** is the graphical representation of an algorithm. It is drawn by using various shapes and symbols having their usual meanings.
 
-![](./flowchart symbols.jpg)
+![Flowchart Symbols](https://github.com/Amrit-Campus/Notes/blob/main/Sem1/CSC-110/Unit%201%20-%20Problem%20Solving%20with%20Computer/flowchart%20symbols.jpg?raw=true)
+
+The picture above shows the most commonly used **Flowchart symbols**.
