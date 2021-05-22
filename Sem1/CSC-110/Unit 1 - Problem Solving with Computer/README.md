@@ -48,3 +48,18 @@ An **algorithm** is a finite sequence of well-defined, computer implementable in
 ![Flowchart Symbols](https://github.com/Amrit-Campus/Notes/blob/main/Sem1/CSC-110/Unit%201%20-%20Problem%20Solving%20with%20Computer/flowchart%20symbols.jpg?raw=true)
 
 The picture above shows the most commonly used **Flowchart symbols**.
+
+
+### Eg: Write an algorithm and draw a flowchart to find whether the number is odd or even.
+
+###### Algorithm
+```
+STEP 1: START
+STEP 2: INPUT ANY NUMBER; N
+STEP 3: IF N MOD 2 IS EQUAL TO 0
+            THEN PRINT N IS EVEN
+        ELSE PRINT N IS ODD
+STEP 4: STOP 
+```
+###### Flowchart
+![Flowchart for Odd or Even](https://github.com/amrit-campus/CSIT-Notes/blob/main/Sem1/CSC-110/Unit%201%20-%20Problem%20Solving%20with%20Computer/odd-or-even.PNG?raw=true)
