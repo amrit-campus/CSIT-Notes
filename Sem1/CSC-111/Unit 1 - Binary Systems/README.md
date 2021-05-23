@@ -34,3 +34,29 @@ However, **Von-Neumann Architecture** is generally coined as the (Architecture) 
 ![Block Daigram Of Digital Computer](./block-daigram-of-computer.jpg?raw=true)
 
 ### 1.1.3 Advantages / Disavantages of Digital System
+
+###### Merits
+
+‣ has made unachieveable successes possible.
+
+‣ more reliable
+
+‣ easy to manipulate
+
+‣ flexible
+
+‣ compatible
+
+‣ easy storage of data
+
+###### Demerits
+
+‣ more energy than analog systems
+
+‣ thus, more heat
+
+‣ more fragile i.e if single piece of data is misinterpreted, that may cause a large block of data to be change or altered.
+
+‣ it involves binary code
+
+‣ thus, has **quantization** errors.
