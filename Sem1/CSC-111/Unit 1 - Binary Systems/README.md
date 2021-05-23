@@ -15,7 +15,7 @@ Let's just see the differences between **Analog** & **Digital** Systems to get a
 | S.N  | Analog Systems                                               | Digital Systems                                              |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | The system based on analog (continuous) data such as temperature, pressure, etc is known as **Analog System**. | The system based on discrete data (i.e. either 0 or 1) is known as **Digital System**. |
-| 2    | **Analog System** operates on **Sine** waves. ![Sine Wave](https://github.com/amrit-campus/CSIT-Notes/blob/main/Sem1/CSC-111/Unit%201%20-%20Binary%20Systems/sine-wave.PNG?raw=true) | **Digital System** operates on **square** waves. ![Square Wave](https://github.com/amrit-campus/CSIT-Notes/blob/main/Sem1/CSC-111/Unit%201%20-%20Binary%20Systems/square-wave.PNG?raw=true) |
+| 2    | **Analog System** operates on **Sine** waves. ![Sine Wave](./sine-wave.PNG?raw=true) | **Digital System** operates on **square** waves. ![Square Wave](./square-wave.PNG?raw=true) |
 | 3    | **Analog System** operates on low bandwidth.                 | **Digital System** does require high bandwidth.              |
 | 4    | **Analog Systems** can never offer flexible execution.       | **Digital System** offers flexibility in execution.          |
 | 5    | **Analog System** gives significant observational errors.    | **Digital Systems** provides zero observational errors.      |
@@ -31,6 +31,6 @@ There are basically two types of Computer Architecture, **Von-Neumann Architectu
 
 However, **Von-Neumann Architecture** is generally coined as the (Architecture) Block diagram of Digital Computer.
 
-![Block Daigram Of Digital Computer](https://github.com/amrit-campus/CSIT-Notes/blob/main/Sem1/CSC-111/Unit%201%20-%20Binary%20Systems/block-daigram-of-computer.jpg?raw=true)
+![Block Daigram Of Digital Computer](./block-daigram-of-computer.jpg?raw=true)
 
 ### 1.1.3 Advantages / Disavantages of Digital System
