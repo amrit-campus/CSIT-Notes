@@ -63,3 +63,20 @@ STEP 4: STOP
 ```
 ###### Flowchart
 ![Flowchart for Odd or Even](./odd-or-even.PNG?raw=true)
+
+## 1.3 Coding, Compilation & Execution
+
+### Coding
+The procedure of writing a program is called **coding**. Today, most programs are written in the symbolic language called **source program** while its translation into machine codes is called the **object program**.
+
+**Source program** is translated into its equivalent **object program** by any one of the following:
+* *ASSEMBLER*
+* *COMPILER*
+* *INTERPRETER*
+
+### Compilation
+The translation of a high-level language to its object code equivalent by a compiler is termed as **compilation**.
+
+### Execution
+After compilation, we get a file known as object file which is in machine language. Object file can directly be loaded into computer memory and executed. The process of loading an object file into computer memory and running that file is termed as **Execution**.
+![Compilation And Execution Process](./compilation-and-execution-process.PNG?aw=true)
