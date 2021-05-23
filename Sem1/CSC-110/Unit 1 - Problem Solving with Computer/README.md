@@ -45,7 +45,7 @@ An **algorithm** is a finite sequence of well-defined, computer implementable in
 -----
 **Flowchart** is the graphical representation of an algorithm. It is drawn by using various shapes and symbols having their usual meanings.
 
-![Flowchart Symbols](https://github.com/Amrit-Campus/Notes/blob/main/Sem1/CSC-110/Unit%201%20-%20Problem%20Solving%20with%20Computer/flowchart%20symbols.jpg?raw=true)
+![Flowchart Symbols](./flowchart%20symbols.jpg?raw=true)
 
 The picture above shows the most commonly used **Flowchart symbols**.
 
@@ -62,4 +62,4 @@ STEP 3: IF N MOD 2 IS EQUAL TO 0
 STEP 4: STOP 
 ```
 ###### Flowchart
-![Flowchart for Odd or Even](https://github.com/amrit-campus/CSIT-Notes/blob/main/Sem1/CSC-110/Unit%201%20-%20Problem%20Solving%20with%20Computer/odd-or-even.PNG?raw=true)
+![Flowchart for Odd or Even](./odd-or-even.PNG?raw=true)
