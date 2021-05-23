@@ -29,7 +29,7 @@ Let's just see the differences between **Analog** & **Digital** Systems to get a
 
 There are basically two types of Computer Architecture, **Von-Nuumann Architecture** and the **Harvard Architecture**.
 
-However, **Von-Neumann Architecture** is generally coined as the (Architecture) Block disgram of Digital Computer.
+However, **Von-Neumann Architecture** is generally coined as the (Architecture) Block diagram of Digital Computer.
 
 ![Block Daigram Of Digital Computer](https://github.com/amrit-campus/CSIT-Notes/blob/main/Sem1/CSC-111/Unit%201%20-%20Binary%20Systems/block-daigram-of-computer.jpg?raw=true)
 
