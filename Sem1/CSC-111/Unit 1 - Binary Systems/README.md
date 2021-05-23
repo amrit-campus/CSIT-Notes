@@ -37,26 +37,28 @@ However, **Von-Neumann Architecture** is generally coined as the (Architecture) 
 
 ###### Merits
 
-‣ has made unachieveable successes possible.
-
-‣ more reliable
-
-‣ easy to manipulate
-
-‣ flexible
-
-‣ compatible
-
-‣ easy storage of data
+* has made unachieveable successes possible.
+* more reliable
+* easy to manipulate
+* flexible
+* compatible
+* easy storage of data
 
 ###### Demerits
 
-‣ more energy than analog systems
+* more energy than analog systems
+* thus, more heat
+* more fragile i.e if single piece of data is misinterpreted, that may cause a large block of data to be change or altered.
+* it involves binary code
+* thus, has **quantization** errors.
 
-‣ thus, more heat
 
-‣ more fragile i.e if single piece of data is misinterpreted, that may cause a large block of data to be change or altered.
+## 1.2 Binary Numbers
+### 1.2.1 Number System
 
-‣ it involves binary code
+**Number System** is the mathematical notation for representing numbers of a given set by using digits or other symbols in a consistent manner. The various number systems used in digital computers are :-
 
-‣ thus, has **quantization** errors.
+* Binary Number System
+* Octal Number System
+* Decimal Number System
+* Hexa-decimal Number System
